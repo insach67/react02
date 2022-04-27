@@ -1,0 +1,20 @@
+.head2{
+    color: blue;
+    text-align: center;
+}
+.btn{
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    align-self: center;
+    outline: none;
+    background-color: #00ffffd8;
+    border: 1px solid blue;
+    font-weight: 600;
+}
+.btn:hover{
+    background-color: white;
+    color: blue;
+}
